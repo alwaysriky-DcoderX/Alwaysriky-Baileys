@@ -1,5 +1,5 @@
 {
-  "name": "@slnckyami/V3-Baileys",
+  "name": "@RaflieDev/Raf-Bailesy",
   "version": "1.0.2",
   "description": "WhatsApp Beta",
   "keywords": [
@@ -12,9 +12,9 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/SlncKyami/@slnckyami/V3-Baileys",
+  "homepage": "https://github.com/RaflieDev/@RaflieDev/Raf-Bailesy",
   "repository": {
-    "url": "git@github.com:SlncKyami/@slnckyami/V3-Baileys.git"
+    "url": "git@github.com:RaflieDev/@RaflieDev/Raf-Bailesy.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
